@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Coffee-Website-React/static/css/main.5da12f56.css",
+    "main.js": "/Coffee-Website-React/static/js/main.7fb93219.js",
+    "static/js/453.8e4c5fdf.chunk.js": "/Coffee-Website-React/static/js/453.8e4c5fdf.chunk.js",
+    "static/media/coffeevideo2.mp4": "/Coffee-Website-React/static/media/coffeevideo2.74bb35b558e0cef09f15.mp4",
+    "static/media/coffeevideo1.mp4": "/Coffee-Website-React/static/media/coffeevideo1.a733541356cf64ff4271.mp4",
+    "static/media/CoffeeImg4.png": "/Coffee-Website-React/static/media/CoffeeImg4.949d8d954e0ddc150969.png",
+    "static/media/CoffeeImg3.png": "/Coffee-Website-React/static/media/CoffeeImg3.bca7571bfdeaa34ba8be.png",
+    "static/media/CoffeeImg1.png": "/Coffee-Website-React/static/media/CoffeeImg1.4dd51520625e0a1f58a2.png",
+    "static/media/CoffeeImg2.png": "/Coffee-Website-React/static/media/CoffeeImg2.67845095e770276dcac1.png",
+    "static/media/CoffeeBanner.jpg": "/Coffee-Website-React/static/media/CoffeeBanner.14021c9374f501dcacf7.jpg",
+    "static/media/AlotCanHappenOverCoffeeBanner.jpg": "/Coffee-Website-React/static/media/AlotCanHappenOverCoffeeBanner.3784ab05a564cc3cbe36.jpg",
+    "static/media/history-plx.jpg": "/Coffee-Website-React/static/media/history-plx.54f3d8f20b1cfeedb26a.jpg",
+    "static/media/logo.svg": "/Coffee-Website-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Coffee-Website-React/index.html",
+    "main.5da12f56.css.map": "/Coffee-Website-React/static/css/main.5da12f56.css.map",
+    "main.7fb93219.js.map": "/Coffee-Website-React/static/js/main.7fb93219.js.map",
+    "453.8e4c5fdf.chunk.js.map": "/Coffee-Website-React/static/js/453.8e4c5fdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5da12f56.css",
+    "static/js/main.7fb93219.js"
+  ]
+}
